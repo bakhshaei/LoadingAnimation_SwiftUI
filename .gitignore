@@ -1,0 +1,10 @@
+xcshareddata
+xcuserdata
+xcuserdata/*
+.DS_Store
+build/
+*.xccheckout
+.idea
+xcschememanagement.plist
+Pods/
+
